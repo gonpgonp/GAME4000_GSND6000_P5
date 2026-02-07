@@ -15,10 +15,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - PlayerHurtbox
+  - PlayerHitbox
+  - EnemyHurtbox
+  - EnemyHitbox
   - 
   - 
   - 
