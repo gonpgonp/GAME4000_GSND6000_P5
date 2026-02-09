@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: b7865bd230ef54fe1bf443e85204c36f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7778907076790524920
+    second: Camper_sheet_2_0
+  - first:
+      213: 5689519591848199211
+    second: Camper_sheet_2_1
+  - first:
+      213: -9005684370704280151
+    second: Camper_sheet_2_2
+  - first:
+      213: -7127329729490664572
+    second: Camper_sheet_2_3
+  - first:
+      213: 639258671234613780
+    second: Camper_sheet_2_4
+  - first:
+      213: 6676527202738850693
+    second: Camper_sheet_2_5
+  - first:
+      213: 2338293124449344745
+    second: Camper_sheet_2_6
+  - first:
+      213: 2180451306718298073
+    second: Camper_sheet_2_7
+  - first:
+      213: -4370528058599023025
+    second: Camper_sheet_2_8
+  - first:
+      213: 440563718039633606
+    second: Camper_sheet_2_9
+  - first:
+      213: -3505511470050709809
+    second: Camper_sheet_2_10
+  - first:
+      213: 6176648109898938625
+    second: Camper_sheet_2_11
+  - first:
+      213: -4309066776285345779
+    second: Camper_sheet_2_12
+  - first:
+      213: -9210468652777451248
+    second: Camper_sheet_2_13
+  - first:
+      213: 4993823140350050636
+    second: Camper_sheet_2_14
+  - first:
+      213: -4293162189105199101
+    second: Camper_sheet_2_15
+  - first:
+      213: 1806886045002901619
+    second: Camper_sheet_2_16
+  - first:
+      213: 1663561624762045727
+    second: Camper_sheet_2_17
+  - first:
+      213: -2566198312767918567
+    second: Camper_sheet_2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camper_sheet_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1611
+        width: 832
+        height: 1534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804e0236a35cb0490800000000000000
+      internalID: -7778907076790524920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_1
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1618
+        width: 857
+        height: 1534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24ccb6aceb35fe40800000000000000
+      internalID: 5689519591848199211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_3
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1606
+        width: 687
+        height: 1568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483c0ac8f53a61d90800000000000000
+      internalID: -7127329729490664572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_4
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 1625
+        width: 646
+        height: 1481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120782ef5a1fd800800000000000000
+      internalID: 639258671234613780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_7
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 1660
+        width: 1482
+        height: 969
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dffaf239e4824e10800000000000000
+      internalID: 2180451306718298073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 877
+        height: 1342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08031ee89e1334c0800000000000000
+      internalID: -4309066776285345779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_13
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1
+        width: 762
+        height: 1466
+      alignment: 9
+      pivot: {x: 0.4130672, y: 0.54800975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01154583f87dd2080800000000000000
+      internalID: -9210468652777451248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_16
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 210
+        width: 161
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378220ed849531910800000000000000
+      internalID: 1806886045002901619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_17
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 212
+        width: 174
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15d9e9db78261710800000000000000
+      internalID: 1663561624762045727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camper_sheet_2_18
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 202
+        width: 159
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee2481b38036cd0800000000000000
+      internalID: -2566198312767918567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b5d7af68e68d4619a4de92db17dde33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Camper_sheet_2_0: -7778907076790524920
+      Camper_sheet_2_1: 5689519591848199211
+      Camper_sheet_2_10: -3505511470050709809
+      Camper_sheet_2_11: 6176648109898938625
+      Camper_sheet_2_12: -4309066776285345779
+      Camper_sheet_2_13: -9210468652777451248
+      Camper_sheet_2_14: 4993823140350050636
+      Camper_sheet_2_15: -4293162189105199101
+      Camper_sheet_2_16: 1806886045002901619
+      Camper_sheet_2_17: 1663561624762045727
+      Camper_sheet_2_18: -2566198312767918567
+      Camper_sheet_2_2: -9005684370704280151
+      Camper_sheet_2_3: -7127329729490664572
+      Camper_sheet_2_4: 639258671234613780
+      Camper_sheet_2_5: 6676527202738850693
+      Camper_sheet_2_6: 2338293124449344745
+      Camper_sheet_2_7: 2180451306718298073
+      Camper_sheet_2_8: -4370528058599023025
+      Camper_sheet_2_9: 440563718039633606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
