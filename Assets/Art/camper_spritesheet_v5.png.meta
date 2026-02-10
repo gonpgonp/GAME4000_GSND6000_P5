@@ -361,8 +361,8 @@ TextureImporter:
       name: camper_spritesheet_v5_15
       rect:
         serializedVersion: 2
-        x: 2776
-        y: 692
+        x: 2780
+        y: 696
         width: 1076
         height: 1400
       alignment: 9
@@ -388,7 +388,7 @@ TextureImporter:
         width: 747
         height: 1524
       alignment: 9
-      pivot: {x: 0.7106643, y: -0.009131203}
+      pivot: {x: 0.32602808, y: -0.031983584}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
