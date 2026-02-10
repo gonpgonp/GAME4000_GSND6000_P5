@@ -390,7 +390,7 @@ GameObject:
   - component: {fileID: 52319330}
   - component: {fileID: 52319329}
   m_Layer: 0
-  m_Name: DEVART_BG
+  m_Name: BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
