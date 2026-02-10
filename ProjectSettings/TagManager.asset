@@ -53,5 +53,8 @@ TagManager:
   - name: Spells
     uniqueID: 1822308417
     locked: 0
+  - name: UI
+    uniqueID: 2348158657
+    locked: 0
   m_RenderingLayers:
   - Default
